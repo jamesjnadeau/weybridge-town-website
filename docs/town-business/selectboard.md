@@ -1,3 +1,6 @@
+---
+title: Selectboard
+---
 # Selectboard
 
 Meetings are typically held the first Tuesday of each month at 7:00 p.m. at the Town Clerks' Office. 
@@ -25,6 +28,27 @@ kflynn@townofweybridge.org
 #### William Mayers                                                        
 wmayers@townofweybridge.org                              
 
-
+-﻿--
 
 ## Selectboard Minutes 2023 
+
+ ﻿ January - [3rd](docs/img/meeting-minutes/2023/Board+Meeting+January+3.docx) [18th](/img/meeting-minutes/2023/Selectboard+Meeting+January+18.docx)
+
+-﻿ February
+
+-﻿ March 
+
+-﻿ April
+
+-﻿ May
+
+-﻿ June
+
+-﻿ July
+
+-﻿ August
+
+- September 
+- ﻿October
+-﻿ November
+-﻿ December
