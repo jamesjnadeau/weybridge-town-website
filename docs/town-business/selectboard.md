@@ -41,6 +41,8 @@ wmayers@townofweybridge.org
 - [﻿Declaration of Inclusion](/img/Declaration+of+Inclusion.pdf)
 -﻿ [﻿Proposed Dog Ordinance](/img/DOG+CONTROL+ORDINANCE.pdf)
 -﻿ [Major Disaster Declaration](/img/http://www.townofweybridge.org/s/Fema-Notice.pdf)
+-﻿ [Stow Cemetery](/img/Stow+Cemetery.pdf)
+-﻿ 2022 Town Report [Part 1](/img/town-reports/2022-1of2pdf) [Part 2](/img/town-reports/2022-2of2pdf)
 
 
 ## Selectboard Minutes 2023
