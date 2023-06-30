@@ -35,15 +35,21 @@ kflynn@townofweybridge.org
 
 wmayers@townofweybridge.org                              
 
-\-﻿--
+
+## Issues of Note
+
+- [﻿Declaration of Inclusion](/img/Declaration+of+Inclusion.pdf)
+-﻿ [﻿Proposed Dog Ordinance](/img/DOG+CONTROL+ORDINANCE.pdf)
+-﻿ [Major Disaster Declaration](/img/http://www.townofweybridge.org/s/Fema-Notice.pdf)
+
 
 ## Selectboard Minutes 2023
 
-* January - [3rd](docs/img/meeting-minutes/2023/Board+Meeting+January+3.docx) [18th](/img/meeting-minutes/2023/Selectboard+Meeting+January+18.docx) 
+* January - [3rd](/img/meeting-minutes/2023/Board+Meeting+January+3.docx) [18th](/img/meeting-minutes/2023/Selectboard+Meeting+January+18.docx) 
 * February - [14th](/img/meeting-minutes/2023/Minutes+March+14.docx)
-* March 
-* April
-* ﻿ May
+* March - [14th](/img/meeting-minutes/2023/Minutes+March+14.docx)
+* April - [4th](/img/meeting-minutes/2023/Minutes+April+4.docx)
+* ﻿ May -[2nd](/img/meeting-minutes/2023/Board+Meeting+May+2.docx)
 * ﻿ June
 * ﻿ July
 * ﻿ August
