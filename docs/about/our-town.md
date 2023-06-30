@@ -1,0 +1,3 @@
+# About Weybridge
+
+Weybridge is a small, rural town in Vermont, population 833 as of the 2010 census.  Located in Addison County, Weybridge is home to the University of Vermont Morgan Horse Farm and Monument Farms Dairy.  Otter Creek weaves through the town on its way to Lake Champlain.   Chartered in 1761 by a hardy crew from Connecticut, Weybridge continues its traditions of farming, water power and close community.

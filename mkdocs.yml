@@ -1,0 +1,17 @@
+site_name: Town of Weybridge
+theme:
+    name: null
+    custom_dir: 'theme/'
+    suppress_nextprev: true
+    no_breadcrumbs: true
+    no_page_metadata: true
+
+
+# extra_css:
+#   - 'stylesheets/extra.css'
+
+# repo_name: 'capriosa/mkdocs-cms'
+# repo_url: 'https://github.com/capriosa/mkdocs-cms'
+
+# # Copyright
+# copyright: '<a href="https://www.mdwp.de">mdwp</a>'
