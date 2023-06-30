@@ -1,3 +1,6 @@
+---
+title: Public Information
+---
 # Public Information
 
 ## Dog Licenses
