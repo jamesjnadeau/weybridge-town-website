@@ -35,20 +35,18 @@ kflynn@townofweybridge.org
 
 wmayers@townofweybridge.org                              
 
--﻿--
+\-﻿--
 
 ## Selectboard Minutes 2023
 
-- January - [3rd](docs/img/meeting-minutes/2023/Board+Meeting+January+3.docx) [18th](/img/meeting-minutes/2023/Selectboard+Meeting+January+18.docx) 
-
-- February 
--  March 
--  April
-- ﻿ May
-- ﻿ June
-- ﻿ July
-- ﻿ August
-
+* January - [3rd](docs/img/meeting-minutes/2023/Board+Meeting+January+3.docx) [18th](/img/meeting-minutes/2023/Selectboard+Meeting+January+18.docx) 
+* February - [14th](/img/meeting-minutes/2023/Minutes+March+14.docx)
+* March 
+* April
+* ﻿ May
+* ﻿ June
+* ﻿ July
+* ﻿ August
 * September 
 * ﻿October
   -﻿ November
