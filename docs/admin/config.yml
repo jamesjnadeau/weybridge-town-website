@@ -18,7 +18,7 @@ collections:
   - name: pages
     label: All Pages
     label_singular: Page
-    folder: content/
+    folder: docs/
     create: true
     format: frontmatter
     extension: md
