@@ -38,11 +38,11 @@ wmayers@townofweybridge.org
 
 ## Issues of Note
 
-- [﻿Declaration of Inclusion](/img/Declaration+of+Inclusion.pdf)
--﻿ [﻿Proposed Dog Ordinance](/img/DOG+CONTROL+ORDINANCE.pdf)
--﻿ [Major Disaster Declaration](/img/http://www.townofweybridge.org/s/Fema-Notice.pdf)
--﻿ [Stow Cemetery](/img/Stow+Cemetery.pdf)
--﻿ 2022 Town Report [Part 1](/img/town-reports/2022-1of2pdf) [Part 2](/img/town-reports/2022-2of2pdf)
+ - [Declaration of Inclusion](/img/Declaration+of+Inclusion.pdf)
+ - [Proposed Dog Ordinance](/img/DOG+CONTROL+ORDINANCE.pdf)
+ - [Major Disaster Declaration](/img/http://www.townofweybridge.org/s/Fema-Notice.pdf)
+ - [Stow Cemetery](/img/Stow+Cemetery.pdf)
+ - 2022 Town Report [Part 1](/img/town-reports/2022-1of2pdf) [Part 2](/img/town-reports/2022-2of2pdf)
 
 
 ## Selectboard Minutes 2023
@@ -51,11 +51,11 @@ wmayers@townofweybridge.org
 * February - [14th](/img/meeting-minutes/2023/Minutes+March+14.docx)
 * March - [14th](/img/meeting-minutes/2023/Minutes+March+14.docx)
 * April - [4th](/img/meeting-minutes/2023/Minutes+April+4.docx)
-* ﻿ May -[2nd](/img/meeting-minutes/2023/Board+Meeting+May+2.docx)
-* ﻿ June
-* ﻿ July
-* ﻿ August
+* May -[2nd](/img/meeting-minutes/2023/Board+Meeting+May+2.docx)
+* June
+* July
+* August
 * September 
-* ﻿October
-  -﻿ November
-  -﻿ December
+* October
+* November
+* December
