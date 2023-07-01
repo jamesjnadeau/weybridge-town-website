@@ -1,20 +1,20 @@
 ---
 title: Planning and Zoning
 ---
-## Planning Commission 
+# Planning Commission 
 Meetings held the second Tuesday of each month at 7:00 p.m. at the Town Clerks' Office.
 
-Members:
+## Members
 
 - Jeff Olson - Chair 
 
-Gale Hurd
+- Gale Hurd
 
-Abe Miller
+- Abe Miller
 
-Robin Foster Cole
+- Robin Foster Cole
 
-Jan Albers
+- Jan Albers
 
- Agendas 
- Minutes
+## Agendas 
+## Minutes
